@@ -5,3 +5,4 @@ dependencies:
   - pip:
       - pandas
       - jupyterlab==3
+      - ipykernal
